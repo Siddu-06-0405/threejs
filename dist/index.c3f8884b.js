@@ -600,7 +600,7 @@ var _three = require("three");
 var _orbitControlsJs = require("three/examples/jsm/controls/OrbitControls.js");
 var _gltfloaderJs = require("three/examples/jsm/loaders/GLTFLoader.js");
 // Path to your .glb model
-const monkeyUrl = new URL(require("300afa9e0b9dfd29"));
+const monkeyUrl = new URL(require("176506260e4ef93f"));
 // Renderer setup
 const renderer = new _three.WebGLRenderer({
     antialias: true
@@ -697,7 +697,7 @@ window.addEventListener('resize', function() {
     minimapRenderer.setSize(minimap.offsetWidth, minimap.offsetHeight);
 });
 
-},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","three/examples/jsm/loaders/GLTFLoader.js":"dVRsF","300afa9e0b9dfd29":"k0s0l"}],"ktPTu":[function(require,module,exports,__globalThis) {
+},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","three/examples/jsm/loaders/GLTFLoader.js":"dVRsF","176506260e4ef93f":"7X4Ju"}],"ktPTu":[function(require,module,exports,__globalThis) {
 /**
  * @license
  * Copyright 2010-2024 Three.js Authors
@@ -36514,10 +36514,10 @@ function mergeGroups(geometry) {
     return resultGeometry;
 }
 
-},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"k0s0l":[function(require,module,exports,__globalThis) {
-module.exports = require("d7ec8c5824b9ceee").getBundleURL('8jZB1') + "gujarat2.99e211dd.glb" + "?" + Date.now();
+},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"7X4Ju":[function(require,module,exports,__globalThis) {
+module.exports = require("fff91d87a3308f1e").getBundleURL('8jZB1') + "guj2.867c0a48.glb" + "?" + Date.now();
 
-},{"d7ec8c5824b9ceee":"lgJ39"}],"lgJ39":[function(require,module,exports,__globalThis) {
+},{"fff91d87a3308f1e":"lgJ39"}],"lgJ39":[function(require,module,exports,__globalThis) {
 "use strict";
 var bundleURL = {};
 function getBundleURLCached(id) {

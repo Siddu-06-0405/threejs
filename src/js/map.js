@@ -3,7 +3,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
 // Path to your .glb model
-const monkeyUrl = new URL('../../assets/gujarat2.glb', import.meta.url);
+const monkeyUrl = new URL('../../assets/guj2.glb', import.meta.url);
 
 // Renderer setup
 const renderer = new THREE.WebGLRenderer({ antialias: true });
